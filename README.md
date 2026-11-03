@@ -45,3 +45,6 @@ Currently in the design and documentation phase.
 
 The first version focuses on managing personal workout data locally. Cloud synchronization, AI features, and real authentication are not included in the initial version.
 
+Figma Desing:-
+https://www.figma.com/design/HtdkaRX79IJjbRbsHeFFks/FitArc---UI-UX-Design?node-id=1-2&t=B5W79pMCtxfx7NyD-1
+
